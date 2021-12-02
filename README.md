@@ -49,7 +49,7 @@ Methods - Liujing Ren & Zijing Lu
 
 Results - Liujing Ren
 
-Discussion - Liujing Ren & Chenyu Chen
+Discussion - Liujing Ren & Chengyu Chen
 
 Future Work  - Ziyu Han
 
